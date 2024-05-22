@@ -11,3 +11,6 @@ Este proyecto se centra en el uso de Redes Neuronales Convolucionales (CNNs) en 
 ## Redes neuronales
 - Se entrenaron dos redes neuronales una para clasificar entre 3 de las estructuras secundarias y otra para clasificar entre 8 de las estructuras secundarias.
 - prediccion_Q3 y prediccion_Q8 respectivamente
+
+## Instrucciones
+- Descargar el repositorio completo y correr los notebooks
